@@ -1,5 +1,6 @@
-package com.adwait.deviceauthoritycrypto.service;
+package com.adwait.deviceauthoritycrypto.component;
 
+import com.adwait.deviceauthoritycrypto.service.KeyPairGeneratorService;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
